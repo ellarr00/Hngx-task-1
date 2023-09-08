@@ -1,0 +1,14 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(155, 214, 214);
+}
+
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#profile-picture {
+    width: 250px;
+}
